@@ -63,6 +63,7 @@
                 <enabled>false</enabled>
             </releases>
         </repository>
+             
         <repository>
             <id>spring-milestones</id>
             <name>Spring Milestones</name>
